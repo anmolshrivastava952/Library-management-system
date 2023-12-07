@@ -20,4 +20,6 @@ for authentication purpose this api will return a jwt token, which you will have
 
 for database connections define your database name, user, host and password in the .env file
 
+I have also provided a sql file that you can initially run after migration, so that dummy data gets populated 
+
 
